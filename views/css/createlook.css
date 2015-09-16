@@ -1,0 +1,101 @@
+#create_body{
+    background-color: white;
+
+}
+#createLook{
+    margin-top: 70px;
+    margin-left: 530px;
+    position: relative;
+
+}
+.select_drop{
+    margin-top: 20px;
+}
+#p_choose{
+    font-family: 'Poiret One', cursive;
+    color: #000000;
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 90px;
+}
+select{
+    padding-left: 30%;
+}
+#hash_text{
+    font-family: 'Poiret One', cursive;
+    width: 255px;
+    height: 61px;
+    text-align: center;
+    outline: none;
+    border: 1px solid #000000;
+    color: #000000;
+    margin-bottom: 20px;
+}
+#process{
+    width: 80%;
+    margin-left: 140px;
+    margin-top: 5px;
+    height: 1px;
+    background-color: #000000;
+}
+
+#option_drop{
+    width: 255px;
+    height: 50px;
+    border: 1px solid ;
+    color: #000000;
+    outline: none;
+    font-family: 'Poiret One', cursive;
+
+}
+
+.load_file{
+    width:200px;
+    height: 30px;
+}
+
+div.upload {
+    width: 255px;
+    height: 61px;
+    background: white;
+    overflow: hidden;
+    border: 1px solid #000000;
+    margin-left: 20px;
+
+}
+
+div.upload input {
+    display: block !important;
+    width: 255px !important;
+    height: 61px !important;
+    opacity: 0 !important;
+    overflow: hidden !important;
+}
+#form_file{
+    width: 300px;
+}
+#upload{
+    width: 255px;
+    height: 61px;
+    background-color: #000000;
+    color: white;
+    outline: none;
+    border: none;
+    font-size: 40px;
+    font-family: 'Poiret One', cursive;
+}
+#upload:hover{
+    color: #d3d3d3;
+}
+.proc{
+    display: inline-block;
+    margin-top: 120px;
+    font-size: 25px;
+    font-family: 'Poiret One', cursive;
+
+}
+#choose_prod{
+    margin-right: 240px;
+    margin-left: 240px;
+
+}

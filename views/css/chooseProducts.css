@@ -1,0 +1,81 @@
+#prod_body{
+    background-color: white;
+}
+#inspo_pic{
+    float: left;
+    margin-top: 15px;
+    margin-left: 180px;
+    border: 1px solid #000000;
+}
+#inspo_p{
+    float: left;
+    width: 5px;
+   margin-top: 325px;
+    font-size: 20px;
+    margin-left: -180px;
+    font-family: 'Poiret One', cursive;
+}
+#product{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+
+}
+.form_div{
+    width: 700px;
+    float: right;
+    margin-right: 130px;
+    margin-top: 30px;
+
+}
+.choose_div{
+    width: 200px;
+    display: inline-block;
+
+
+}
+#submit_div{
+    display: inline-block;
+    float: right;
+
+}
+#submit_this{
+    width: 40px;
+    height: 60px;
+    background-color: white;
+    border: 1px solid #000000;
+    color: #000000;
+    outline: none;
+    font-size: 30px;
+    font-family: 'Poiret One', cursive;
+
+
+}
+#submit_this:hover{
+    color: #d3d3d3;
+}
+
+#process{
+    width: 80%;
+    margin-left: 160px;
+    margin-top: 5px;
+    height: 1px;
+    background-color: #000000;
+    margin-bottom: 10px;
+    font-family: 'Poiret One', cursive;
+
+}
+.proc{
+    display: inline-block;
+    margin-top: 120px;
+    font-size: 25px;
+    font-family: 'Poiret One', cursive;
+
+
+}
+#choose_prod{
+    margin-right: 240px;
+    margin-left: 240px;
+
+}
+

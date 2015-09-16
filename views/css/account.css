@@ -1,0 +1,83 @@
+#account_body{
+    background-image: url("/fashionable/views/image/blonde-cap-dress-editorial-fashion-Favim.com-317020.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+#header_login{
+
+    background-color: #000000;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    -webkit-box-shadow: 0 8px 6px -6px black;
+    -moz-box-shadow: 0 8px 6px -6px black;
+    box-shadow: 0 8px 6px -6px black;
+}
+.menu_login{
+    display: inline-block;
+    padding: 20px;
+    margin-top: -20px;
+    cursor: pointer;
+    font-family: 'Poiret One', cursive;
+    font-size: 18px;
+
+}
+#create_look{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+#create_look:hover{
+    color: #808080;
+}
+.buttn{
+    background-color: transparent;
+    outline: none;
+    border: none;
+    color: white;
+    font-family: 'Poiret One', cursive;
+    font-size: 18px;
+}
+.buttn:hover{
+    color: #808080;
+    cursor: pointer;
+}
+#cart_sub{
+    background: transparent;
+    outline: none;
+    border: none;
+    font-family: 'Poiret One', cursive;
+    font-size: 18px;
+
+}
+#search_text_account{
+    width: 250px;
+    height: 25px;
+    background-color: white;
+    border: 1px solid #000000;
+    padding-left: 4px;
+    outline: none;
+    font-family: 'Poiret One', cursive;
+
+}
+#search_button_account{
+    outline: none;
+    margin-left: -40px;
+    width: 50px;
+    height: 25px;
+    background: #000000;
+    border: none;
+    background-image: url("/fashionable/views/image/search-icon.png");
+    background-size: 21px;
+    background-repeat: no-repeat;
+    background-position: center;;
+}
+#head{
+    font-size: 28px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Poiret One', cursive;
+
+}

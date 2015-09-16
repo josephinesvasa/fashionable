@@ -1,0 +1,34 @@
+#login_body{
+    background: url("/fashionable/views/image/blonde-cap-dress-editorial-fashion-Favim.com-317020.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#login{
+   padding-top: 190px;
+    font-family: 'Poiret One', cursive;
+
+
+}
+.login_input{
+    width: 255px;
+    height: 50px;
+    outline: none;
+    border: 1px solid #000000;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+
+}
+#pass{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Poiret One', cursive;
+
+}
+#submit_login{
+    background-color: #000000;
+    color: white;
+    font-size: 17px;
+    font-family: 'Poiret One', cursive;
+}

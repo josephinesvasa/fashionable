@@ -1,0 +1,246 @@
+body{
+    position: relative;
+
+}
+#body_shoppingcart{
+    background-color: white;
+
+}
+#ShowReg{
+    display: none;
+    background-color: white;
+    border: 2px solid #000000;
+    height: 480px;
+    width: 900px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 15;
+    margin-left: 205px;
+    margin-top: 60px;
+    padding-top: 60px;
+
+}
+
+#reg_overlay{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: rgba(0,0,0,0.5); /*dim the background*/
+}
+.shop{
+   margin-right: 490px;
+    margin-top: 10px;
+    height: 50px;
+    width: 300px;
+    border: 1px solid #000000;
+    text-align: center;
+    outline: none;
+    font-family: 'Poiret One', cursive;
+
+
+}
+#buy{
+    background-color: #000000;
+    color: white;
+    font-size: 18px;
+    font-family: 'Poiret One', cursive;
+}
+.add_product{
+    width: 900px;
+    height: auto;
+    margin-left: 190px;
+    font-family: 'Poiret One', cursive;
+
+
+}
+.desc{
+   display: inline-block;
+    font-family: 'Poiret One', cursive;
+}
+.price{
+    display: inline-block;
+    margin-right: 90px;
+    margin-left: 60px;
+    font-family: 'Poiret One', cursive;
+}
+.butt_cart{
+    display: inline-block;
+    margin-right: 60px;
+    font-family: 'Poiret One', cursive;
+}
+#total{
+    margin-right: 60px;
+    font-family: 'Poiret One', cursive;
+}
+.prod_cart_under{
+    list-style-type: none;
+}
+.empty_cart{
+    padding-top: 100px;
+    font-size: 20px;
+    font-family: 'Poiret One', cursive;
+}
+.cart_img{
+    display: inline-block;
+    margin-right: 120px;
+    vertical-align: middle;
+
+
+}
+#name{
+    margin-right: 40px;
+    font-family: 'Poiret One', cursive;
+}
+#d2{
+    width: 20px;
+
+}
+#d1{
+    width: 20px;
+
+}
+.delete{
+    width: 20px;
+    display: inline-block;
+}
+.update{
+   display: inline-block;
+}
+.remove{
+    display: inline-block;
+}
+#quantity1{
+    border: 1px solid #000000;
+    padding-top: 2px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-family: 'Poiret One', cursive;
+
+}
+#quantity2{
+    border: 1px solid #000000;
+    padding-top: 2px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-family: 'Poiret One', cursive;
+
+}
+.name_div{
+    list-style-type: none;
+    display: inline-block;
+    padding-right:80px;
+    font-size: 17px;
+
+}
+.div_menu{
+    border-bottom: 1px solid #000000;
+    margin-bottom: 3px;
+}
+.menu_shop{
+    margin-left: 50px;
+    width: 1000px;
+    padding-top: 20px;
+    font-family: 'Poiret One', cursive;
+
+}
+.update_cart{
+    background: transparent;
+    outline: none;
+    border: 1px solid #000000;
+    height: 25px;
+    width: 25px;
+    font-family: 'Poiret One', cursive;
+}
+.delete_input{
+    background: transparent;
+    border: none;
+    outline: none;
+    font-family: 'Poiret One', cursive;
+}
+.delete_input:hover{
+    color: #808080;
+}
+.buy_no_logged{
+    margin-left: 600px;
+    width: 225px;
+    height: 45px;
+    margin-top: 5px;
+    background-color: #000000;
+    color: white;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: 'Poiret One', cursive;
+}
+
+
+.buy_logged{
+    margin-left: 600px;
+    width: 225px;
+    height: 45px;
+    margin-top: 5px;
+    background-color: #000000;
+    color: white;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: 'Poiret One', cursive;
+}
+
+.back{
+    background-color: white;
+    height: 34px;
+    width: 150px;
+    border: 1px solid #000000;
+    padding-top: 16px;
+    cursor: pointer;
+}
+.back:hover{
+    opacity: 0.3;
+    color: #000000;
+}
+.back_wrap{
+    padding-top: 120px;
+
+    margin-left: 190px;
+}
+.back_a{
+    color: #000000;
+    z-index: 20;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Poiret One', cursive;
+}
+#reg_div{
+    float: left;
+    margin-left: 120px;
+}
+#register_text{
+    font-size: 50px;
+    font-family: 'Poiret One', cursive;
+
+}
+#pic_reg{
+    margin-left: 400px;
+    margin-top: -450px;
+    border: 1px solid #000000;
+    height: 500px;
+    width: 400px;
+}
+.msg_div1{
+
+}
+.mess{
+padding-top: 100px;
+    font-size: 20px;
+    font-family: 'Poiret One', cursive;
+}

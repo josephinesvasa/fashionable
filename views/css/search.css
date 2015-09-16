@@ -1,0 +1,26 @@
+#search_body{
+    background-color: white;
+}
+
+.result{
+   padding-top: 100px;
+}
+.img_result{
+   margin-bottom: 5px;
+}
+.add_this{
+    font-family: 'Poiret One', cursive;
+    width: 140px;
+    height: 40px;
+    font-size: 15px;
+    background-color: white;
+    border: 1px solid #000000;
+    color: #000000;
+    outline: none;
+    cursor: pointer;
+}
+.search_div{
+    display: inline-block;
+    width: 300px;
+
+}

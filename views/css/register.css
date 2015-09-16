@@ -1,0 +1,30 @@
+#reg_div{
+    padding-top: 90px;
+
+}
+.reg_input{
+    width: 255px;
+    height: 50px;
+    outline: none;
+    border: 1px solid #000000;
+    margin-bottom: 5px;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+}
+#pass{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Poiret One', cursive;
+
+}
+#submit_input{
+    background-color: #000000;
+    color: white;
+    font-size: 17px;
+    font-family: 'Poiret One', cursive;
+    cursor: pointer;
+}
+#submit_input:hover{
+    color: #808080;
+
+}
